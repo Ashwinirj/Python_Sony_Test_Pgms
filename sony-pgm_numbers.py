@@ -4,3 +4,7 @@ for score in scores:
         continue
     else:
         print(score)
+
+
+#output 
+# 89,73,92,81,78,84,91

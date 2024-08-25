@@ -15,3 +15,9 @@ circleShape.printShapeCreated()
 circleShape = Shape()
 circleShape.create()
 circleShape.printShapeCreated()
+
+#OUTPUT
+#A shape creation in progress
+#A circle is created successfully
+#A shape creation in progress
+#A General shape is created successfully

@@ -1,5 +1,10 @@
 try:
     In=input()
-    #print(in/2)
+    print(In/2)
 except Exception as err:
     print(err)
+
+
+#OUPUT: 
+# g
+# unsupported operand type(s) for /: 'str' and 'int'
