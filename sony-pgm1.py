@@ -17,3 +17,8 @@ dog.speak()
 
 
 # OUTPUT: 
+#cow Moos 
+#Cow Moos 
+#Animal speaks
+#Animal speaks
+#Dog Barks 
